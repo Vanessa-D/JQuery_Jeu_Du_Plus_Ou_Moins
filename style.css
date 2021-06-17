@@ -1,0 +1,15 @@
+#message, #tries{
+    font-size: 2em;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+@media screen and (max-width: 768px){
+    #message, #tries{
+        font-size: 1em;
+    }
+}
